@@ -6,9 +6,11 @@ The 4% Rule of Thumb
 
 ### 4% Rule
 
-[Trinity Study](https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf)
+- [Trinity Study](https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf)
 
-[Trinity Study Update](https://www.bogleheads.org/wiki/Trinity_study_update) - Monte Carlo simulations
+- [Trinity Study Update](https://www.bogleheads.org/wiki/Trinity_study_update) - Monte Carlo simulations
+
+- Sequence of Returns Risk
 
 ---
 
